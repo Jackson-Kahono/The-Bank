@@ -40,6 +40,7 @@ function TransactionsList({ transactions, handleDelete }) {
           </th>
         </tr>
         {transactionItems}
+       
       </tbody>
     </table>
   );
